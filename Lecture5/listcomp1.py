@@ -1,3 +1,13 @@
+"""
+listcomp1.py - list comprehension examples
+
+COMP1005/5005 updated 25/3/24
+
+Usage guide:
+    - just run it :)
+
+"""
+
 # unconditional list comprehension
 
 numbers = [1, 2, 3, 4, 5]

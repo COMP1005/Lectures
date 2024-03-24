@@ -1,3 +1,13 @@
+"""
+listcomp2.py - list comprehension examples with functions
+
+COMP1005/5005 updated 25/3/24
+
+Usage guide:
+    - just run it :)
+
+"""
+
 def double(x):
     return x*2
 
