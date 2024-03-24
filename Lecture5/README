@@ -1,1 +1,20 @@
+## Synopsis
+Resources for Lecture 5 of Fundamentals of Programming COMP1005/5005
+ 
+## Contents
+README – readme file for Lecture 5
+errorful.py - a program full of errors to demonstrate how Python responds
+errorfree.py - corrected program full of errors to demonstrate how Python responds
+gridding.py - animates the gridding algorithm via a plot
+gridding2.py - extends previous to show the nextgrid ibeing built with each calculation
+listcomp1.py - list comprehension examples
+listcomp2.py - list comprehension examples with functions
+listcomp3.py - list comprehension examples with strings, functions and indexing
+myfile.txt - datafile for errorful/free.py
+workfile.csv - datafile for errorful/free.py
 
+## Dependencies
+gridding - matplotlib.pyplot and numpy
+ 
+## Version information
+25/3/24 - initial version of Lecture 5 programs
